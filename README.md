@@ -1,7 +1,8 @@
 # Math3
 
-Cours de mathématiques niveau 3ème, Collège Saint-Jean.
+Cours de mathématiques niveau 3ème, Collège Saint-Jean, Limoges
 
-- cours
-- exercices et corrigés
+- Cours
+- Exercices et corrigés
 - DM, évaluations et corrigés
+- TD et TP (Scratch, Géogébra, Python, tableur)
